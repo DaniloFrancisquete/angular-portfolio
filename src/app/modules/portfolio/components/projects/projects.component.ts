@@ -36,7 +36,7 @@ export class ProjectsComponent {
     {
       src: 'assets/img/projects/code.png',
       alt: 'Empresa CodeEpress',
-      title: 'Code Express - Soluções em TI',
+      title: 'Code Express',
       width: '100px',
       height: '51px',
       discription:
