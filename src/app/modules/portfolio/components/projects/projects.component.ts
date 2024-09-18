@@ -70,7 +70,7 @@ export class ProjectsComponent {
     {
       src: 'assets/img/projects/hero.webp',
       alt: 'Projeto Tarefas',
-      title: 'Estudo Beta - Plataforma Educacional',
+      title: 'Estudo Beta',
       width: '100px',
       height: '51px',
       discription:
@@ -86,7 +86,7 @@ export class ProjectsComponent {
     {
       src: 'assets/img/projects/unnamed.png',
       alt: 'Projeto Todo-list',
-      title: 'Todo-list - Gerenciador de Tarefas',
+      title: 'Todo-list',
       width: '100px',
       height: '51px',
       discription:
@@ -101,8 +101,8 @@ export class ProjectsComponent {
 
     {
       src: 'assets/img/projects/figma.png',
-      alt: 'Projeto Vendas - Design de Interface',
-      title: 'Projeto Vendas - Design de Interface',
+      alt: 'Projeto Vendas',
+      title: 'Projeto Vendas',
       width: '100px',
       height: '51px',
       discription:
@@ -117,8 +117,8 @@ export class ProjectsComponent {
 
     {
       src: 'assets/img/projects/figma.png',
-      alt: 'Redesign Netflix - Projeto de Interface',
-      title: 'Redesign Netflix - Projeto de Interface',
+      alt: 'Redesign Netflix ',
+      title: 'Redesign Netflix',
       width: '100px',
       height: '51px',
       discription:
@@ -134,7 +134,7 @@ export class ProjectsComponent {
     {
       src: 'assets/img/projects/figma.png',
       alt: 'Cardápio - Design de Interface',
-      title: 'Cardápio - Design de Interface',
+      title: 'Cardápio',
       width: '100px',
       height: '51px',
       discription:
