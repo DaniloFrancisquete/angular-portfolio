@@ -1,5 +1,5 @@
 import { Component, signal } from '@angular/core';
-import { Iknowledge } from '../../interface/Iknowledge.interface';
+import { Iknowledge } from '../../interface/iknowledge.interface';
 
 
 
