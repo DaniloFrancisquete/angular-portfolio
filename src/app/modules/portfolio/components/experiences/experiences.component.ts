@@ -15,7 +15,7 @@ export class ExperiencesComponent {
     {
       summary: {
         strong: "Fullstack Developer",
-        p: "CodeExpress | abr 2023 - Present",
+        p: "CodeExpress | abr 2023 - set 2024",
       },
       text: "<p>Deste de 2023, atuo como especialista em Java, Python, Angular, AngularJS, ReactJS, NextJS, .NET, Redux e Docker. Experiência em desenvolvimento de aplicações web completas, desde o front-end até o back-end, com foco em performance, segurança e escalabilidade. Habilidade em colaborar com equipes multidisciplinares para entregar soluções inovadoras e eficientes. Apaixonado por tecnologia e sempre em busca de novos desafios e aprendizado contínuo.</p>"
     },
